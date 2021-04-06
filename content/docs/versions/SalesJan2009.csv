@@ -1,0 +1,9 @@
+Transaction_date,Product,Price,Payment_Type
+01/02/2009 06:17,Blah,1200,Mastercard
+01/02/2009 04:53,Plop,1100,Visa
+01/02/2009 13:08,Product1,1230,Mastercard
+01/03/2009 14:44,Product1,1200,Visa
+01/04/2009 12:56,Product2,3600,Visa
+01/04/2009 13:19,Product1,1200,Visa
+01/04/2009 20:11,Product1,1200,Mastercard
+01/05/2009 20:09,Product1,1200,Mastercard
