@@ -27,7 +27,7 @@ layout: docs
 
 There are various versions of X80.
 
-{{< csv_table url="\content\docs\versions\SalesJan2009.csv" >}}
+{{< csv_table url="/content/docs/versions/SalesJan2009.csv" >}}
 
 Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
 
